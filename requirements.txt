@@ -1,0 +1,6 @@
+# Core dependencies for the waste classification transfer-learning project
+matplotlib
+numpy==1.26.4
+Pillow
+scikit-learn
+tensorflow==2.17.0
